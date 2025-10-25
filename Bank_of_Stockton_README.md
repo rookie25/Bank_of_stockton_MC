@@ -79,26 +79,7 @@ Jupyter Notebook | VS Code | Git | Excel | PDF Reporting
 
 ---
 
-### How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/Bank_of_Stockton_Credit_Risk.git
-   cd Bank_of_Stockton_Credit_Risk
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the notebook:
-   ```bash
-   jupyter notebook notebooks/credit_risk.ipynb
-   ```
-4. (Optional) Launch the Streamlit dashboard:
-   ```bash
-   python -m streamlit run visualizations/app.py
-   ```
 
----
 
 ### Future Enhancements
 - Integrate macro-economic factors (GDP, Unemployment, Fed Rate) for scenario modeling.  
@@ -109,11 +90,4 @@ Jupyter Notebook | VS Code | Git | Excel | PDF Reporting
 
 ### Author
 **Vishal C V**  
-Email: [Add your email]  
-MS Business Analytics | University of the Pacific  
-Data Analytics | Credit Risk | Financial Modeling
 
----
-
-### License
-This project is released under the MIT License for educational and research use.
